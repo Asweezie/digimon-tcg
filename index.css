@@ -1,0 +1,19 @@
+input, button {
+    display: flex;
+    display: inline-block;
+    border: red 2px solid;
+    height: 50px;
+    font-size: 25px;
+    
+}
+
+img {
+    display: flex;
+    
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
